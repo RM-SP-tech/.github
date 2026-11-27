@@ -4,6 +4,9 @@ Data Engineering, Python utilities, and ETL architecture workspace (PySpark, Duc
 
 ---
 
+## 📖 Wiki
+* **[wiki](https://github.com)**
+
 ## 🚀 Projects (`category: projects`)
 Core, reusable tools and production-ready codebases:
 * **[project-utils](https://github.com)** — Reusable Python and Bash utilities for PySpark 4.2+, Airflow, PostgreSQL, and DuckDB workflows in WSL2.
