@@ -5,7 +5,7 @@ Data Engineering, Python utilities, and ETL architecture workspace (PySpark, Duc
 ---
 
 ## 📖 Wiki
-* **[wiki](https://github.com)**
+* **[wiki](https://github.com)** — Personal technical knowledge base, curated links, and study notes.
 
 ## 🚀 Projects (`category: projects`)
 Core, reusable tools and production-ready codebases:
