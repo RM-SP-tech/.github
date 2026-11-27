@@ -14,4 +14,4 @@ Proof-of-concepts, benchmarks, and end-to-end tutorial implementations:
 
 ## 📚 Education (`category: education`)
 Learning repositories, exercises, and study notes:
-* **[edu-...](https://github.com...)** — *(Wpisz nazwę i krótki opis swojego repozytorium edukacyjnego)*.
+* **[edu-ZMAD-2026](https://github.com/RM-SP-tech/edu-ZMAD-2025)** — ZMAD 2025: rozwiązania zadań.
